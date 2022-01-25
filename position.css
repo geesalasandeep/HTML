@@ -1,0 +1,28 @@
+.parent{
+    background-color: chocolate;
+    height: 500vh;
+    /* position: relative; */
+    
+}
+.child1{
+    background-color: cornsilk;
+    position: absolute;
+    top: 0px;
+}
+.child2{
+    background-color: darkgreen;
+    position: fixed;
+    top: 100px;
+  
+}
+.child3{
+    background-color: darkorchid;
+    position: sticky;
+    top: 0px;
+}
+.div{
+    margin-left: 10px;
+}
+
+
+

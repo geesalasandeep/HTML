@@ -1,0 +1,25 @@
+.flex-container{
+    background-color: crimson;
+    flex-wrap:wrap;
+    /* justify-content: center;
+    align-items: center;
+    flex-direction: column; */
+}
+.flex-item{
+    width: 200px;
+    margin: 10px; 
+    background-color: cyan;
+
+}
+.flex-item-1{
+min-height: 100px;
+}
+.flex-item-2{
+    min-height: 200px;
+    flex-grow: 1;
+}
+
+.flex-item-3{
+    min-height: 300px;
+    flex-grow: 1;
+}

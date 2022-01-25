@@ -1,0 +1,43 @@
+/* div{
+    background-color: brown;
+    border: 2px gold dashed;
+}
+span{
+    background-color: cadetblue;
+    border: 2px rgb(80, 206, 22) solid;
+}
+img{
+    border: rgb(189, 114, 114) 10px solid;
+    border-radius: 10px 20px 30px 50px;
+}   
+
+p{
+    color: rgb(87, 53, 8);
+font-style: italic;
+font-variant: small-caps;
+ 
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#abc{
+    text-align: center ;
+    /* text-transform: capitalize; */
+    /* letter-spacing: 2px; */
+    /* word-spacing: 3px;
+    text-decoration-line: underline;
+    text-decoration-style: dashed; */
+    /* text-decoration-line: overline; */
+    /* text-decoration-color: cornflowerblue; */
+
+    
+/* }
+#ash{
+    margin: 20px 40px 60px 80px;
+
+    padding: 80px 60px 40px 20px;
+} */ */
+h1{
+    display: inline;
+}
+p{
+    display: inline;
+}

@@ -1,0 +1,20 @@
+
+body{
+    /* background-color: rgb(207, 207, 35); */
+background-image: url("https://images.thrillophilia.com/image/upload/s--ii9zTCYD--/c_fill,f_auto,fl_strip_profile,h_775,q_auto,w_1600/v1/images/photos/000/013/595/original/Mysore-Flickr.jpg.jpg?1458192645");
+    background-size: cover;
+    background-attachment: fixed;
+    
+}
+h3{
+    color: rgba(204, 30, 59, 0.911);
+}
+
+
+
+
+    img{opacity: 0.7;}
+    img:hover{opacity: 1.0;}
+    #image1{ opacity: 1.0;}
+    
+    
